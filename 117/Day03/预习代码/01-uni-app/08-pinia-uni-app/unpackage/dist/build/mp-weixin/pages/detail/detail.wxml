@@ -1,0 +1,1 @@
+<view><button type="default" bindtap="{{a}}">decrement</button><view class="title">{{b}}</view><view class="title">{{c}}</view></view>

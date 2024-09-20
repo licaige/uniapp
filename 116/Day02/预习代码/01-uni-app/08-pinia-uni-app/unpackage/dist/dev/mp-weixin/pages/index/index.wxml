@@ -1,0 +1,1 @@
+<view class="content"><navigator url="/pages/detail/detail" open-type="navigate"><button type="default">Got To Detail</button></navigator><button type="default" bindtap="{{a}}">increment</button><button type="default" bindtap="{{b}}">decrement</button><view class="title">{{c}}</view><button type="default" bindtap="{{d}}">getHomeData</button><view class="title">{{e}}</view></view>

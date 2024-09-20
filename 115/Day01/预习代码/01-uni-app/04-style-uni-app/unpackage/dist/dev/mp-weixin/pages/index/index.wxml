@@ -1,0 +1,1 @@
+<view class="content"><view class="bg-view"></view><text class="iconfont icon-bianji" style="{{'color:' + 'red' + ';' + ('font-size:' + '60rpx')}}"></text></view>

@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js"),t=require("../service/home.js"),a=e.defineStore("home",{state:()=>({homeData:{}}),actions:{async getHomePageData(){const e=await t.getHomeData();this.homeData=e.data||{}}}});exports.useHomeStore=a;

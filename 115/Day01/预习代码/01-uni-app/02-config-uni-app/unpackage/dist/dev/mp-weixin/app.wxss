@@ -1,0 +1,11 @@
+/*每个页面公共css */
+/* @import url('./static/css/base.css'); */
+/* @import './static/css/base.css'; */
+/* @import url('static/css/base.css'); */
+/* @import url('~@/static/css/base.css'); */
+/* @import url('@/static/css/base.css'); */
+page {
+  height: 100%;
+  box-sizing: border-box;
+  border: 3px solid green;
+}page{--status-bar-height:25px;--top-window-height:0px;--window-top:0px;--window-bottom:0px;--window-left:0px;--window-right:0px;--window-magin:0px}[data-c-h="true"]{display: none !important;}

@@ -1,0 +1,1 @@
+<view><view class="item" bindtap="{{a}}">1</view><view class="item">1</view><view class="item">1</view><view class="item">1</view><view class="item">1</view><view class="item">1</view><view class="item">1</view><view class="item">1</view><view class="item">1</view><view class="item">1</view><view class="item">1</view><view class="item">1</view></view>

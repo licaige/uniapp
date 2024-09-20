@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js");const t=new class{request(t,s,r){return new Promise(((u,o)=>{e.index.request({url:"http://codercba.com:9060/juanpi/api"+t,method:s||"GET",timeout:6e4,data:r,success(e){u(e.data)},fail(e){o(e)}})}))}get(e,t){return this.request(e,"GET",t)}post(e,t){return this.request(e,"POST",t)}};exports.hyRequest=t;

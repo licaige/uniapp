@@ -1,0 +1,1 @@
+import{o as t,c as a,w as s,f as e,e as i,t as d}from"./index.f0b840fc.js";const f={__name:"detail",props:{iid:{type:String,default:""}},setup:f=>(n,o)=>{const r=e;return t(),a(r,null,{default:s((()=>[i(" iid:"+d(f.iid),1)])),_:1})}};export{f as default};

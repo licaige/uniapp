@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/cross-platform/cross-platform",
+    "pages/hy-form-setup/hy-form-setup",
+    "pages/hy-form/hy-form",
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

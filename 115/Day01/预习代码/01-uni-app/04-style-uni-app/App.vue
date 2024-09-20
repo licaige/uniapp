@@ -1,0 +1,78 @@
+<script>
+	export default {
+		onLaunch: function() {
+			console.log('App Launch')
+		},
+		onShow: function() {
+			console.log('App Show')
+		},
+		onHide: function() {
+			console.log('App Hide')
+		}
+	}
+</script>
+
+<style>
+	/*每个页面公共css */
+	@font-face {
+	  font-family: "iconfont"; /* Project id  */
+	  src: url("@/static/custom-font/iconfont.ttf") format('truetype');
+	}
+	
+	.iconfont {
+	  font-family: "iconfont" !important;
+	  font-size: 16px;
+	  font-style: normal;
+	  -webkit-font-smoothing: antialiased;
+	  -moz-osx-font-smoothing: grayscale;
+	}
+	
+	.icon-bianji:before {
+	  content: "\e6d6";
+	}
+	
+	.icon-bohui:before {
+	  content: "\e6d7";
+	}
+	
+	.icon-dayin:before {
+	  content: "\e6d8";
+	}
+	
+	.icon-bangzhu:before {
+	  content: "\e6d9";
+	}
+	
+	.icon-chakan:before {
+	  content: "\e6da";
+	}
+	
+	.icon-fuzhi:before {
+	  content: "\e6db";
+	}
+	
+	.icon-fujian:before {
+	  content: "\e6dc";
+	}
+	
+	.icon-riqi:before {
+	  content: "\e6dd";
+	}
+	
+	.icon-shouji:before {
+	  content: "\e6de";
+	}
+	
+	.icon-shanchu:before {
+	  content: "\e6df";
+	}
+	
+	.icon-shenpijiedian:before {
+	  content: "\e6e0";
+	}
+	
+	.icon-paizhao:before {
+	  content: "\e6e1";
+	}
+
+</style>

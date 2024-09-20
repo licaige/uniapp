@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "首页",
+    "navigationBarBackgroundColor": "#f8f8e4",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
